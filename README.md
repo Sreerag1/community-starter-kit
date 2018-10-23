@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+This is a probat app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It allows you to add features to the working of your git repositories.
 
 ## Getting started
 
